@@ -1,0 +1,143 @@
+body {
+  background-color: #F7F7F7;
+  background: url(../images/background2.png) center center fixed;
+  font-family: 'Open Sans', 'sans-serif';
+  margin: 0px;
+}
+
+.container {
+  width: 600px;
+  margin: 30px auto;
+}
+
+div {
+  display: block;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', 'sans-serfi';
+}
+
+h1 {
+  color: #D03B43;
+}
+
+h2, h3 {
+  color: #484848;
+}
+
+td h3 {
+  font-size: 16px;
+  color: #7d7d7d;
+}
+
+p {
+  color: #7d7d7d;
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: 16px;
+}
+
+h2 a {
+  color: #484848;
+}
+
+a {
+  color: #7d7d7d;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D45B4A;
+}
+
+li p {
+  color: #7d7d7d;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+td {
+  font-weight: bold;
+  font-size: 18px;
+  color: #7d7d7d;
+}
+
+.card{
+    background: #edeae8;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.social-inline li {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.social-inline {
+  padding-left: 0px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#skills {
+  margin: 0 auto;
+}
+
+#sports {
+  margin: 0 auto;
+}
+
+#skills td {
+  text-align: center;
+}
+
+#sports td {
+  text-align: center;
+}
+
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: #484848;
+    text-align: center;
+}
+
+#profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  box-shadow: 3px 2px 2px 0px rgba(125, 125, 125, 0.2);
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin: 0px 35px;
+}
+
+.sport {
+  width: 75px;
+  height: 75px;
+  border-radius: 37.5px;
+  margin: 0px 30px;
+}
+
+#LeWagon {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #7D7D7D;
+}
+
+
+
